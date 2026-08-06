@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ExceptionTemplate.FileScope/ExceptionTemplate.FileScope.shproj" />
+  <Project Path="ExceptionTemplate.FileScopeNoDocs/ExceptionTemplate.FileScopeNoDocs.shproj" />
+  <Project Path="ExceptionTemplate.NoDocs/ExceptionTemplate.NoDocs.shproj" />
+  <Project Path="ExceptionTemplate/ExceptionTemplate.shproj" />
+</Solution>
